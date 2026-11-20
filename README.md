@@ -124,7 +124,7 @@ The parser, memory, safety confirmations and LLM fallback chain are covered by t
 ## Author
 
 **Huseyn** · Robotics & Artificial Intelligence student at the University of Klagenfurt, Austria
-[GitHub](https://github.com/lortdraver)
+[GitHub](https://github.com/lortdraver) · [LinkedIn](https://www.linkedin.com/in/huseyn-aliyev-978203385)
 
 *Jarvis, Iron Man and Stark Industries are trademarks of Marvel. This is an independent fan project, not affiliated with Marvel.*
 

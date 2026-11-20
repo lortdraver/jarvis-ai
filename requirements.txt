@@ -1,0 +1,15 @@
+edge-tts
+groq
+numpy
+pygame
+psutil
+pyautogui
+pyperclip
+pywin32
+shazamio
+sounddevice
+spotipy
+vosk
+pytest
+requests
+pyttsx3

@@ -1,0 +1,22 @@
+.env
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+build/
+dist/
+*.spec
+*.log
+temp*.wav
+temp_record.wav
+silence.wav
+.cache
+
+# Vosk models (large, downloaded by scripts/download_models.py)
+model/
+model_en/
+# personal data and media
+data/
+*.mp3
+jarvis_memory.py
